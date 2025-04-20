@@ -97,11 +97,7 @@ The **Complainant Management System** is a desktop-based Java application design
 - NetBeans IDE (or compatible Java IDE)
 - MySQL Server & phpMyAdmin
 
-### Setup Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/faith-mainah/complaint-system.git
 
 
 ![homepage](https://github.com/user-attachments/assets/5cc3adfa-c68b-4994-ad6e-10fc75f33ea0)
